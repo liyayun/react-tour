@@ -1,3 +1,6 @@
 *~
 node_modules
 .DS_Store
+
+react-tour.sublime-project
+react-tour.sublime-workspace
