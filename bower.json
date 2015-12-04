@@ -1,0 +1,19 @@
+{
+  "name": "react-tour",
+  "version": "0.0.0",
+  "homepage": "https://github.com/liyayun/react-tour",
+  "authors": [
+    "Aaron.Lee <coderlee@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
